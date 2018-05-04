@@ -2,7 +2,7 @@
      
       <nav class="navbar navbar-expand-md navbar-dark bg-light">
         <div class="container" style="vertical-align: bottom">
-          <a class="navbar-brand absolute" href="index.html"><svg version="1.1"
+          <a class="navbar-brand absolute" href="index.php"><svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
 	 x="0px" y="0px" width="auto" height="40px" viewBox="0 0 604.3 98.2" style="enable-background:new 0 0 604.3 98.2;" preserveAspectRatio="xMidYMid meet"
 	 xml:space="preserve">
@@ -210,7 +210,7 @@
           <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link active" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="courses.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Online Courses</a>

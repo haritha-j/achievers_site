@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name=".DS_Store" server="plus.lankahost.net/achievers.eventesia.lk/" local="131677947940000000" remote="131696671800000000" Dst="0" />
-<file name="about.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679377980000000" remote="131696671800000000" Dst="0" />
-<file name="blog-single.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378060000000" remote="131696671800000000" Dst="0" />
-<file name="contact.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378240000000" remote="131696671800000000" Dst="0" />
-<file name="blog.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378140000000" remote="131696671800000000" Dst="0" />
-<file name="course-single.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378320000000" remote="131696671800000000" Dst="0" />
-<file name="courses.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378380000000" remote="131696671800000000" Dst="0" />
-<file name="index.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698039646584778" remote="131698044000000000" Dst="0" />
-<file name="login.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378500000000" remote="131696672400000000" Dst="0" />
-<file name="register.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131679378580000000" remote="131696672400000000" Dst="0" />
+<file name="about.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848273543504" remote="131698852800000000" Dst="0" />
+<file name="blog-single.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848275320095" remote="131698852800000000" Dst="0" />
+<file name="contact.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848278781233" remote="131698852800000000" Dst="0" />
+<file name="blog.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848276467109" remote="131698852800000000" Dst="0" />
+<file name="course-single.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848280875631" remote="131698852800000000" Dst="0" />
+<file name="courses.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698870383485358" remote="131698870200000000" Dst="0" />
+<file name="login.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848282720714" remote="131698852800000000" Dst="0" />
+<file name="register.html" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698848284057444" remote="131698852800000000" Dst="0" />
 <file name=".gitattributes" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698009876277747" remote="131698043400000000" Dst="0" />
 <file name="LICENSE" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698009876267772" remote="131698044000000000" Dst="0" />
 <file name="README.md" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698009874768260" remote="131698044000000000" Dst="0" />
-<file name="navbar.php" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698845075950356" remote="131698844400000000" Dst="0" />
+<file name="navbar.php" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698851447230762" remote="131698851000000000" Dst="0" />
+<file name="achievers.css" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698845903909031" remote="131698845600000000" Dst="0" />
+<file name="index.php" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698876819810530" remote="131698876200000000" Dst="0" />
+<file name="footer.php" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698873477664749" remote="131698873200000000" Dst="0" />
+<file name=".htaccess" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698856400000000" remote="131698856400000000" Dst="0" />
+<file name="android-icon-144x144.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="android-icon-192x192.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="android-icon-36x36.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="android-icon-48x48.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="android-icon-72x72.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="android-icon-96x96.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-114x114.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-120x120.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-144x144.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-152x152.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-180x180.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-57x57.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-60x60.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-72x72.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-76x76.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon-precomposed.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
+<file name="apple-icon.png" server="plus.lankahost.net/achievers.eventesia.lk/" local="131698677000000000" remote="131698677000000000" Dst="0" />
 </dwsync>
